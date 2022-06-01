@@ -1,0 +1,33 @@
+body {
+    background-color: #92D36E;
+    font-family: 'Adamina', serif;
+}
+
+#top {
+    height: 2em;
+}
+
+.mymenu {
+    background-color: #4C7A34;
+}
+
+#tittle {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.mytext {
+    color: #cbe8ba;
+}
+
+.mydiv {
+    margin-bottom: 1.5em;
+}
+
+.myheader6 {
+    font-style: oblique;
+    font-weight: bold
+}
+
+.myrounded {
+    border-radius: 20%;
+}
