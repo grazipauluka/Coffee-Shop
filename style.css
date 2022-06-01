@@ -31,3 +31,7 @@ body {
 .myrounded {
     border-radius: 20%;
 }
+
+a {
+    color: black;
+}
